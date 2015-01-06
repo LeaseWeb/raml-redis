@@ -1,0 +1,14 @@
+{
+"name":"raml-redis",
+"description":"RAML Redis Store",
+"version":"0.1.0",
+"author":"LeaseWeb Technologies",
+"dependencies":{
+	"express":"3.x",
+	"redis":">=0.12.1"
+},
+"repository":{
+	"type":"git",
+	"url":"git://github.com/LeaseWeb/raml-redis.git"
+ }
+}
