@@ -1,3 +1,10 @@
+## Deprecated
+
+This repository is no longer being actively maintained. We encourage you to not use this code.
+If you rely on this code you might want to fork the repository to keep your systems from breaking, if we remove this repository in the future.
+
+
+
 # RAML API Designer Redis Store
 
 
@@ -44,7 +51,7 @@ If you prefer to run the server in the background [forever](http://blog.nodejits
 Follow instructions at [api-designer](https://github.com/mulesoft/api-designer) to install and run API-Designer.  
 Currently this is test with version 0.0.1
 
-Copy the file `local-storage-file-system.jsÂ` to your API-DESIGNER subfolder:
+Copy the file `local-storage-file-system.jsÃ‚` to your API-DESIGNER subfolder:
 
 `cp local-storage-file-system.js API_DESIGNER_HOME/app/scripts/services`
 
